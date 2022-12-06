@@ -1,0 +1,65 @@
+h1 {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+h3 {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+h4 {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+p {
+  color: black;
+}
+
+img {
+  position: relative;
+  margin: 0 auto;
+  width: 350px;
+  display: block;
+}
+button{
+  color: blue;
+  background-color: yellow;
+}
+
+footer{
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 25px;
+  text-align: left;
+  color: yellow;
+}
+a{
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color:blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
